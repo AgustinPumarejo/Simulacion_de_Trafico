@@ -1,3 +1,3 @@
-# Simulaci-n_de_Trafico
+# Simulación_de_Tráfico
 ## Descripción
 Simulación de tráfico utilizando agentes reactivos
