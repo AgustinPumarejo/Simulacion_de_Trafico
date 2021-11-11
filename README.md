@@ -5,9 +5,11 @@
 Fernanda Nava Moya A01023896
 * Fortalezas: trabajo en equipo, comunicación, organización, algoritmos
 * Áreas de oportunidad: Unity
+<br>
 Agustín Pumarejo Ontañón A01028997
 * Fortalezas: Unity, Mesa
 * Áreas de oportunidad: 
+<br>
 Adriana Abella Kuri A01329591
 * Fortalezas: comunicación, algoritmos
 * Áreas de oportunidad: organización, concentración, manejo de tiempo
@@ -33,9 +35,11 @@ Carril
 * Estado de congestión (bajo, moderado, alto)
 * Longitud en metros
 * Se calcula su nivel de congestión dependiendo de su longitud y el número de vehículos encima de él
+<br>
 Semáforo
 * Estado (rojo, verde)
 * Cambia de estado cada determinado tiempo
+<br>
 Vehículo
 * Estado (andando, detenido)
 * Dirección y sentido
