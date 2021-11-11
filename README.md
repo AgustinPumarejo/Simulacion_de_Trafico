@@ -2,15 +2,13 @@
 
 ## Equipo
 ### Integrantes
-Fernanda Nava Moya A01023896
+#### Fernanda Nava Moya A01023896
 * Fortalezas: trabajo en equipo, comunicación, organización, algoritmos
 * Áreas de oportunidad: Unity
-<br>
-Agustín Pumarejo Ontañón A01028997
+#### Agustín Pumarejo Ontañón A01028997
 * Fortalezas: Unity, Mesa
 * Áreas de oportunidad: 
-<br>
-Adriana Abella Kuri A01329591
+#### Adriana Abella Kuri A01329591
 * Fortalezas: comunicación, algoritmos
 * Áreas de oportunidad: organización, concentración, manejo de tiempo
 
@@ -31,16 +29,14 @@ Adriana Abella Kuri A01329591
 Propuesta de solución a problemas de movilidad urbana en la Ciudad de México debido al gran incremento de tráfico de vehículos. Se presentera esta solución a través de una simulación de tráfico con agentes reactivos creados con ayuda de Mesa en Python, con gráficas computacionales 3D creadas en Unity.
 
 ### Agentes involucrados
-Carril
+#### Carril
 * Estado de congestión (bajo, moderado, alto)
 * Longitud en metros
 * Se calcula su nivel de congestión dependiendo de su longitud y el número de vehículos encima de él
-<br>
-Semáforo
+#### Semáforo
 * Estado (rojo, verde)
 * Cambia de estado cada determinado tiempo
-<br>
-Vehículo
+#### Vehículo
 * Estado (andando, detenido)
 * Dirección y sentido
 * Avanza o se detiene en los carriles dependiendo del estado de los mismos y del estado de los semáforos
