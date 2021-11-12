@@ -40,3 +40,6 @@ Propuesta de solución a problemas de movilidad urbana en la Ciudad de México d
 * Estado (andando, detenido)
 * Dirección y sentido
 * Avanza o se detiene en los carriles dependiendo del estado de los mismos y del estado de los semáforos
+
+### Plan de trabajo
+URL: https://docs.google.com/spreadsheets/d/1TXR8jgcHHATgiA5E9imqyY-m-zDFdxlD8mZxKH72mPM/edit?usp=sharing
